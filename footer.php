@@ -1,6 +1,6 @@
 	<?php mesmerize_get_footer_content(); ?>
 	</div>
-
+<div>shahul</div>
 <?php wp_footer(); ?>
 </body>
 </html>
